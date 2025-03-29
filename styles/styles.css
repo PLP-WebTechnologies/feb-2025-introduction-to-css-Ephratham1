@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    color: darkblue;
+    margin: 50px 20px 20px 20px;
+    padding: 15px;
+}
+h1.header{
+    color: darkred;
+
+}
+p {
+    color: darkgreen;
+}
+#profile_phto{
+    font-family: 1em sans-serif;
+    width: 350px;
+    height: 150;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 5px;
+
+}
